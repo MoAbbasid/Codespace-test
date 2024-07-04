@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://MoAbbasid.github.io/Codespace-test",
+  "homepage": "https://MoAbbasid.github.io/Codespace-test",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://MoAbbasid.github.io/Codespace-test'",
+    "build-gh": "parcel build --public-url 'https://MoAbbasid.github.io/Codespace-test'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
