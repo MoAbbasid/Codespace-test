@@ -32,8 +32,7 @@ const imageAltText = "Ok handsign";
 const projectList = [
   {
     title: "Github profile🎉",
-    description:
-      "Just my github profile, you can check it out and see what I've been up to.",
+    description: "Just my github profile, you can check it out and see what I've been up to.",
     url: "https://github.com/MoAbbasid",
   },
   {
